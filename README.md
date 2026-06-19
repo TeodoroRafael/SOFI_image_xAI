@@ -15,14 +15,6 @@ This repository contains the implementation of SOFI-Reg, including its adaptatio
 
 ---
 
-### 📥 Download the Dataset
-
-1. The dataset is provided as **`Data_UCI.zip`** in the TAG section.
-2. You can either click on the TAG in the repository or directly use this link:
-   [Download Dataset](https://github.com/TeodoroRafael/BAA_data/releases)
-
----
-
 ## Citation
 If you use this code in your research, please cite the following papers:
 
@@ -38,7 +30,6 @@ pages="",
 isbn=""
 }
 ```
-
 
 ```bibtex
 @InProceedings{10.1007/978-3-031-63797-1_20,
@@ -57,3 +48,30 @@ isbn="978-3-031-63797-1"
 }
 ```
 
+---
+
+## 📥 Dataset
+[Download Dataset](https://github.com/TeodoroRafael/BAA_data/releases)
+
+```bibtex
+If you use this daataset please cite the pollowing paper:
+
+@article{Teodoro2026BoneAge,
+  author    = {Rafael do Amaral Teodoro and
+               Filipe Verrone de Lima and
+               Mirela Popa and
+               Gustavo Scalabrini Sampaio and
+               Cristiane Kochi and
+               Carlos Alberto Longui and
+               Leandro Augusto da Silva},
+  title     = {Automatic bone age assessment: a deep learning case study on the Brazilian population with a supporting mobile application prototype},
+  journal   = {Scientific Reports},
+  year      = {2026},
+  volume    = {16},
+  number    = {1},
+  pages     = {4488},
+  doi       = {10.1038/s41598-025-34651-7},
+  url       = {https://doi.org/10.1038/s41598-025-34651-7},
+  publisher = {Nature Publishing Group}
+}
+```
