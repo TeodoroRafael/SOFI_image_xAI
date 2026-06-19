@@ -19,7 +19,7 @@ This repository contains the implementation of SOFI-Reg, including its adaptatio
 
 1. The dataset is provided as **`Data_UCI.zip`** in the TAG section.
 2. You can either click on the TAG in the repository or directly use this link:
-   [Download Data_UCI.zip](https://github.com/TeodoroRafael/BAA_data/releases/tag/Data)
+   [Download Dataset](https://github.com/TeodoroRafael/BAA_data/releases)
 
 ---
 
